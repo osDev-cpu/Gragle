@@ -16,6 +16,10 @@ This project is tailored specifically for the GCC toolchain on Windows:
 * **Note:** This project is optimized for MinGW. Compiling with `clang++` is explicitly not supported or preferred for this setup.
 
 ## file structure
+|____________________________________________________________________________________________|
+|* **note:** file structure                                                                  |
+|____________________________________________________________________________________________|
+|                                                                                            |
 D:\browser\
 │
 ├── include/                
@@ -27,7 +31,12 @@ D:\browser\
        ├── main.cpp            
        ├── BrowserApp.cpp      
        ├── HtmlpParser.cpp    
-       └── LayoutEngine.cpp    
+       └── LayoutEngine.cpp
+|____________________________________________________________________________________________|
+|* **note:** Please don't create more security vulnerabilities; I need this for my family!.  |
+|____________________________________________________________________________________________|
+|                                                                                            |
+       
 
 
 
