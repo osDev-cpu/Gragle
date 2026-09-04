@@ -15,7 +15,19 @@ This project is tailored specifically for the GCC toolchain on Windows:
 * **Compiler:** **MinGW (GCC)** is used exclusively to compile the source code.
 * **Note:** This project is optimized for MinGW. Compiling with `clang++` is explicitly not supported or preferred for this setup.
 
-
+## file structure
+D:\browser\
+│
+├── include/                
+│   ├── BrowserApp.hpp     
+│   ├── HtmlParser.hpp      
+│   └── LayoutEngine.hpp    
+│
+└── src/                    
+   ├── main.cpp            
+   ├── BrowserApp.cpp      
+   ├── HtmlpParser.cpp    
+   └── LayoutEngine.cpp    
 
 
 
